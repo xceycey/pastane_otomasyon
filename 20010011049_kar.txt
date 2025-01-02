@@ -1,0 +1,10 @@
+102 kodlu ürünün -> 1 adette kârı: 4.00 -> toplam kârı: 60.00
+104 kodlu ürünün -> 1 adette kârı: 6.50 -> toplam kârı: 58.50
+105 kodlu ürünün -> 1 adette kârı: 2.00 -> toplam kârı: 42.00
+103 kodlu ürünün -> 1 adette kârı: 6.55 -> toplam kârı: 104.80
+106 kodlu ürünün -> 1 adette kârı: 10.00 -> toplam kârı: 180.00
+108 kodlu ürünün -> 1 adette kârı: 6.00 -> toplam kârı: 150.00
+107 kodlu ürünün -> 1 adette kârı: 5.00 -> toplam kârı: 70.00
+100 kodlu ürünün -> 1 adette kârı: 6.40 -> toplam kârı: 115.20
+111 kodlu ürünün -> 1 adette kârı: 8.80 -> toplam kârı: 308.00
+Toplam kâr: 1088.50
